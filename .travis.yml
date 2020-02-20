@@ -23,10 +23,10 @@ deploy:
     api_key: $GITHUB_KEY
     file_glob: true
     file:
-      - "release/App Outlet-*.AppImage"
-      - "release/app-outlet_*_amd64.deb"
-      - "release/app-outlet-*.rpm"
-      - "release/app-outlet-*.tar.gz"
+      - "release/violyOS Store-*.AppImage"
+      - "release/violyOS Store_*_amd64.deb"
+      - "release/violyOS Store-*.rpm"
+      - "release/violyOS Store-*.tar.gz"
     skip_cleanup: true
     on:
       branch: master

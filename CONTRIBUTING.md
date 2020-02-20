@@ -1,5 +1,5 @@
 ## Runing and building the app
-You can run or build App Outlet by yourself. You can build in Linux, Windows or Mac OS but the software install features will work only in linux systems. 
+You can run or build violyOS Store by yourself. You can build in Linux, Windows or Mac OS but the software install features will work only in linux systems. 
 
 ### Setting up the project
 #### Step 1: Installing dependencies
@@ -15,8 +15,8 @@ sudo apt install nodejs git npm
 
 #### Step 2: Clone the repository
 ```
-git clone https://github.com/app-outlet/app-outlet.git
-cd app-outlet
+git clone https://github.com/violyOS Store/violyOS Store.git
+cd violyOS Store
 ```
 
 #### Step 3: Installing the project dependecies (npm based)

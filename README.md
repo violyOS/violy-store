@@ -1,1 +1,1 @@
-Thanks https://github.com/app-outlet/app-outlet for the base of this
+Thanks https://github.com/violyOS Store/violyOS Store for the base of this

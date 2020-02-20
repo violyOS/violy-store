@@ -20,7 +20,7 @@ function createWindow() {
         webPreferences: {
             nodeIntegration: true,
         },
-        title: 'App Outlet'
+        title: 'violyOS Store'
     });
 
     if (serve) {
